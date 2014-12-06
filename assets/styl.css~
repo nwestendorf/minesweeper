@@ -1,0 +1,8 @@
+.controls {
+	border:1px solid #333;
+	background:#e1e1e1;
+		
+}
+.controls .span3 {
+	border-left:1px solid #333;	
+}

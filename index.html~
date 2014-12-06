@@ -1,0 +1,42 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>HTML+JS Minesweeper by Redlowwinski</title>
+	   <meta http-equiv="cleartype" content="on" />
+		<meta name="MobileOptimized" content="width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="HandheldFriendly" content="true" />		
+		<link type="text/css" rel="stylesheet" href="assets/bootstrap-mod.css" />
+		<link type="text/css" rel="stylesheet" href="assets/reset.css" />
+		<link type="text/css" rel="stylesheet" href="assets/style.css" />
+		<script type="text/javascript" src="assets/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/jquery.game.js"></script>						
+	</head>
+	
+	<body>
+		<div class="container">
+			<div class="row-fluid controls">
+				<div class="span4 number">		
+				</div>	
+				<div class="span4 squares">
+				</div>
+				<div class="span4 revealedtotal">
+				</div>
+			</div>
+			<div class="row-fluid controls">
+				<div class="span6 mark">Mark Bombss
+				</div>				
+				<div class="span6 submit">Submit
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row-fluid gameboard">
+			</div>
+		</div>
+		<div id="game-over">
+			
+		</div>
+	</body>
+</html>

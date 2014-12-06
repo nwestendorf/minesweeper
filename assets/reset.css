@@ -1,0 +1,8 @@
+
+
+div, p, ul, li, hr, table, td, tr {
+	margin:0;
+	padding:0;
+	border-collapse:collapse;
+	border:0;
+}
